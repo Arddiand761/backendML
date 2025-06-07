@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+/venv/
+*.venv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File Environment (.env) - JANGAN PERNAH meng-upload file ini
+.env
+*.env.*
+
+# File dataset yang besar (tambahkan nama file dataset Anda)
+*.csv
+*.xlsx
+
+# File spesifik OS
+.DS_Store
+Thumbs.db
