@@ -1,6 +1,4 @@
 absl-py==2.1.0
-ai-pkg @ file:///C:/Users/hp/Desktop/Python/ai_pkg-0.0.1-py3-none-any.whl#sha256=67897fd35b99242ac11ea00387e4607dcaafc0c8bd682d5d96f859ae9840311a
-aipkg @ file:///C:/Users/hp/Desktop/Python/aipkg-0.0.4-py3-none-any.whl#sha256=33358b888264d8159645d2cfa81a9635eafa740c39fa57b8efefd7e5db74cb27
 altair==5.3.0
 annotated-types==0.7.0
 anyio==4.4.0
